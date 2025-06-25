@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cappuccino",
+    "price": 8,
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846710/task2/capuccino_wxbf6h.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+  {
+    "id": 2,
+    "name": "Matcha Latte",
+    "price": 10,
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846708/task2/matchalatte_wgvdje.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 3,
+    "name": "Golden Latte",
+    "price": 8,
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846707/task2/goldenlatte_wjdnyx.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 4,
+    "name": "Hot Chocolate",
+    "price": 12,
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846706/task2/hotchocolate_o6xjho.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 5,
+    "name": "Iced Latte",
+    "price": 12,
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846707/task2/icedchocolate_cwts76.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 6,
+    "name": "Plain Croissant",
+    "price": "20 / Box (8 pieces)",
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846708/task2/croissant_qq4k27.png",
+    "category": "Baked Goods",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 7,
+    "name": "French Macaron",
+    "price": "30 / Box (12 pieces)",
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846706/task2/frenchmacron_zoyaco.png",
+    "category": "Baked Goods",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 8,
+    "name": "Original Blend Coffee",
+    "price": "12.99 / Pack",
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846706/task2/originalcoffee_hifoxt.png",
+    "category": "Coffee",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  },
+
+  {
+    "id": 9,
+    "name": "Energy Cookie",
+    "price": "28 / Box (6 pieces)",
+    "image": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846705/task2/energycokkee_tlcd25.png",
+    "category": "Baked Goods",
+    "baker": "Minden Bakery",
+    "mini": "https://res.cloudinary.com/blackgirlmagic/image/upload/v1750846882/task2/mini_gnm519.png"
+  }
+]
+
+git remote set-url origin https://github.com/yourname/my-nextjs-app.git
