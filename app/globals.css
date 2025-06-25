@@ -237,7 +237,7 @@ body {
 }
 
 .filterDiv {
-  display: flex !important;
+  display: flex;
   align-items: center;
   justify-content: space-between;
   width: 85%;
@@ -576,15 +576,17 @@ footer p {
 
   .filterDiv {
     display: flex;
+    flex-direction: column !important;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: flex-start;
     width: 100%;
     gap: 1rem;
   }
 
   .filters {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     gap: 1rem;
   }
 
